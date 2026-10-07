@@ -5,5 +5,4 @@ import java.util.List;
 public interface FormatoImportacaoService {
 
     List<String> listarFormatosSuportados();
-
 }
